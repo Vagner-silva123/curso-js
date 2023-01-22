@@ -1,0 +1,7 @@
+@charset "UTF-8";
+body{
+    font-size: 1.3em;
+    text-align: center;
+    background-color: rgb(185, 220, 220);
+    color: rgb(54, 54, 223);
+}

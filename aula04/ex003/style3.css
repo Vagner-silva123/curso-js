@@ -1,0 +1,28 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(118, 214, 238);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    color: rgba(14, 14, 15, 0.872);
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px  5px 8px rgba(0, 0, 0, 0.301);
+
+}
+p{
+    font-size: larger;
+    background-color: white;
+    color: rgb(29, 32, 31);
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 10px 20px 10px;
+    margin: 40px 40px 10px 10px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 8px rgb(0 0 0 / 30%);
+    
+}
